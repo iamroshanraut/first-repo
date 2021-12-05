@@ -1,0 +1,128 @@
+.main{
+    width: 800px;
+    height: 850px;
+    margin: 0 auto;
+}
+
+.left{
+    width: 470px;
+    height: 850px;
+    float: left;
+}
+
+.coral{
+    width: 100%;
+    height: 350px;
+    background-color: coral;
+    margin-bottom: 70px;
+}
+
+.leftmiddiv{
+    width: 100%;
+    height: 160px;
+    margin-bottom: 70px;
+}
+
+.yellow{
+    width: 60%;
+    height: 100%;
+    background-color: yellow;
+    float: left;
+}
+
+.parrot{
+
+    width: 35%;
+    height: 100%;
+    background-color: palegreen;
+    float: right;
+}
+
+.leftbotdiv{
+    width: 100%;
+    height: 160px;
+}
+
+.black{
+    width: 110px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin-right: 7px;
+}
+
+.right{
+    width: 310px;
+    height: 850px;
+    float: right;
+}
+
+.righttopdiv{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 25px;
+}
+
+.brown{
+    width: 30%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+    margin-right:15px;
+}
+
+.green{
+    width: 30%;
+    height:100%;
+    background-color: green;
+    float: left;
+    margin-right: 16px;
+    
+}
+
+.gray{
+    width: 30%;
+    height: 100%;
+    background-color: gray;
+    float: left;
+}
+
+.rightmiddiv{
+
+    width: 100%;
+    height: 100px;
+    margin-bottom: 60px;
+}
+
+.purple{
+    width: 48%;
+    height: 100%;
+    background-color: purple;
+    float: left;
+}
+
+.pink{
+    width: 48%;
+    height: 100%;
+    background-color: pink;
+    float: right;
+}
+
+.lightgreen{
+
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+    height: 100px;
+    margin-bottom: 45px;
+}
+
+.blue{
+
+    width: 100%;
+    height: 120px;
+    background-color: blue;
+}
+
+
+
